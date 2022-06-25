@@ -9,7 +9,7 @@ Extractor para MSX de ficheros de imágenes de disquetes .dsk en formato FAT12
 ## Requisitos
 
 * Compilador sdcc versión 3.4.0
-* MSX-DOS para la ejecución
+* MSX-DOS (para la ejecución)
 
 ## Compilación
 
@@ -28,7 +28,7 @@ xdsk fichero.dsk
 
 ## Versión compilada
 
-Se puede descargar una versión compilada de https://github.com/fcamussi/xdsk/tree/main/build
+Se puede descargar una versión compilada desde https://github.com/fcamussi/xdsk/tree/main/build
 
 ## Por hacer
 
