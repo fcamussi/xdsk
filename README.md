@@ -1,6 +1,6 @@
 # xdsk
 
-Extractor para MSX de ficheros de imágenes de disquetes .dsk en formato FAT12
+Extractor para MSX de ficheros de imágenes de disquetes .dsk en formato FAT12.
 
 ## Captura
 
