@@ -8,12 +8,15 @@ Extractor para MSX de ficheros de imágenes de disquetes .dsk en formato FAT12.
 
 ## Requisitos
 
-* Compilador sdcc versión 3.4.0
+* Compilador SDCC versión 3.4.0
 * MSX-DOS (para la ejecución)
 
 ## Compilación
 
+Descargar SDCC versión 3.4.0 y descomprimir. Luego, supondiendo que $SDCC_DIR contiene la ruta donde se descomprimió SDCC, tipear:
+
 ```
+export PATH=$PATH:$SDCC_DIR/bin:$SDCC_DIR/share
 cd backend-msxdos
 make
 cd ../xdsk
