@@ -25,6 +25,8 @@ make
 
 ## Ejecución
 
+En MSX-DOS tipiamos:
+
 ```
 xdsk fichero.dsk
 ```
