@@ -33,7 +33,7 @@ xdsk fichero.dsk
 
 ## Versión compilada
 
-Se puede descargar una versión compilada desde [aquí](https://github.com/fcamussi/xdsk/tree/main/build)
+Se puede descargar una versión compilada desde [aquí](https://github.com/fernandocamussi/xdsk/tree/main/build)
 
 ## Por hacer
 
