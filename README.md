@@ -9,7 +9,7 @@ Extractor para MSX de ficheros de imágenes de disquetes (.dsk por ejemplo) en f
 ## Requisitos
 
 * Compilador SDCC versión 3.4.0
-* Una computadora MSX con MSX-DOS para la ejecución
+* Una computadora MSX o un emulador con MSX-DOS para la ejecución
 
 ## Compilación
 
